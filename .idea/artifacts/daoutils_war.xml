@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="daoutils:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="daoutils.war">
-      <element id="artifact" artifact-name="daoutils:war exploded" />
-    </root>
-  </artifact>
-</component>
