@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="daoutils" />
+        <module name="daoutil" />
+        <module name="sample" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="daoutils" target="1.5" />
+      <module name="daoutil" target="1.5" />
+      <module name="sample" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

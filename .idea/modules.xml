@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/daoutil/daoutil.iml" filepath="$PROJECT_DIR$/daoutil/daoutil.iml" />
-      <module fileurl="file://$PROJECT_DIR$/daoutils.iml" filepath="$PROJECT_DIR$/daoutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daoutil.iml" filepath="$PROJECT_DIR$/daoutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
     </modules>
   </component>
 </project>
